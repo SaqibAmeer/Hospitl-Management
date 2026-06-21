@@ -1,6 +1,4 @@
-# Hospitl Management
 Hospital Management System
-==========================
 
 > A complete Hospital Management System designed to manage hospital operations efficiently.
 > This system helps manage patients, doctors, appointments, medical records, billing, and other hospital activities in an organized way.
